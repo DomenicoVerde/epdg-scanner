@@ -1,0 +1,4294 @@
+[
+  {
+    "MNO": "Vodafone",
+    "mcc": "276",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc276.pub.3gppnetwork.org",
+    "records": {
+      "79.171.50.212": {
+        "Ping Reply": false,
+        "SA Init Response Len": 672
+      }
+    }
+  },
+  {
+    "MNO": "Flow",
+    "mcc": "344",
+    "mnc": "920",
+    "url": "epdg.epc.mnc920.mcc344.pub.3gppnetwork.org",
+    "records": {
+      "69.79.196.12": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "imobile / APUA",
+    "mcc": "344",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc344.pub.3gppnetwork.org",
+    "records": {
+      "208.83.81.228": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Movistar",
+    "mcc": "722",
+    "mnc": "007",
+    "url": "epdg.epc.mnc007.mcc722.pub.3gppnetwork.org",
+    "records": {
+      "186.141.175.63": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "186.141.132.10": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "186.143.132.10": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Personal",
+    "mcc": "722",
+    "mnc": "034",
+    "url": "epdg.epc.mnc034.mcc722.pub.3gppnetwork.org",
+    "records": {
+      "181.10.205.28": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "181.10.205.24": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "181.10.205.25": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Personal",
+    "mcc": "722",
+    "mnc": "341",
+    "url": "epdg.epc.mnc341.mcc722.pub.3gppnetwork.org",
+    "records": {
+      "181.10.205.24": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "181.10.205.25": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Viva-MTS",
+    "mcc": "283",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc283.pub.3gppnetwork.org",
+    "records": {
+      "217.76.2.165": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "217.76.2.170": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Telstra",
+    "mcc": "505",
+    "mnc": "072",
+    "url": "epdg.epc.mnc072.mcc505.pub.3gppnetwork.org",
+    "records": {
+      "149.135.224.24": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "101.168.246.193": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "101.168.246.65": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "149.135.226.9": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Telstra",
+    "mcc": "505",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc505.pub.3gppnetwork.org",
+    "records": {
+      "144.135.83.107": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "149.135.136.48": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "149.135.226.11": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "149.135.233.3": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "149.135.232.3": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "149.135.224.26": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "3",
+    "mcc": "232",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc232.pub.3gppnetwork.org",
+    "records": {
+      "213.94.78.31": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "213.94.78.29": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "A1 Telekom",
+    "mcc": "232",
+    "mnc": "011",
+    "url": "epdg.epc.mnc011.mcc232.pub.3gppnetwork.org",
+    "records": {
+      "188.21.252.240": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "188.21.252.241": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "A1 Telekom",
+    "mcc": "232",
+    "mnc": "012",
+    "url": "epdg.epc.mnc012.mcc232.pub.3gppnetwork.org",
+    "records": {
+      "188.21.252.241": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "188.21.252.240": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "MRS",
+    "mcc": "232",
+    "mnc": "017",
+    "url": "epdg.epc.mnc017.mcc232.pub.3gppnetwork.org",
+    "records": {
+      "83.216.32.116": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "83.216.33.116": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "T-Mobile / Magenta",
+    "mcc": "232",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc232.pub.3gppnetwork.org",
+    "records": {
+      "213.162.90.41": {
+        "Ping Reply": false,
+        "SA Init Response Len": 80
+      }
+    }
+  },
+  {
+    "MNO": "T-Mobile / Magenta",
+    "mcc": "232",
+    "mnc": "013",
+    "url": "epdg.epc.mnc013.mcc232.pub.3gppnetwork.org",
+    "records": {
+      "213.162.90.41": {
+        "Ping Reply": false,
+        "SA Init Response Len": 80
+      }
+    }
+  },
+  {
+    "MNO": "Ventocom",
+    "mcc": "232",
+    "mnc": "007",
+    "url": "epdg.epc.mnc007.mcc232.pub.3gppnetwork.org",
+    "records": {
+      "213.162.90.41": {
+        "Ping Reply": false,
+        "SA Init Response Len": 80
+      }
+    }
+  },
+  {
+    "MNO": "Cybercell / BaTelCo",
+    "mcc": "364",
+    "mnc": "039",
+    "url": "epdg.epc.mnc039.mcc364.pub.3gppnetwork.org",
+    "records": {
+      "69.79.196.12": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Batelco",
+    "mcc": "426",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc426.pub.3gppnetwork.org",
+    "records": {
+      "88.201.70.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 499
+      }
+    }
+  },
+  {
+    "MNO": "Banglalink",
+    "mcc": "470",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc470.pub.3gppnetwork.org",
+    "records": {
+      "116.58.207.151": {
+        "Ping Reply": true,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "GrameenPhone",
+    "mcc": "470",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc470.pub.3gppnetwork.org",
+    "records": {
+      "202.56.6.76": {
+        "Ping Reply": true,
+        "SA Init Response Len": 0
+      },
+      "202.56.6.74": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Flow / Lime",
+    "mcc": "342",
+    "mnc": "600",
+    "url": "epdg.epc.mnc600.mcc342.pub.3gppnetwork.org",
+    "records": {
+      "69.79.196.12": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "velcom A1",
+    "mcc": "257",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc257.pub.3gppnetwork.org",
+    "records": {
+      "128.140.255.27": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "128.140.255.59": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "128.140.255.91": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Mobistar / Orange",
+    "mcc": "206",
+    "mnc": "010",
+    "url": "epdg.epc.mnc010.mcc206.pub.3gppnetwork.org",
+    "records": {
+      "212.224.253.168": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "212.224.253.170": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Proximus",
+    "mcc": "206",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc206.pub.3gppnetwork.org",
+    "records": {
+      "81.169.63.88": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "81.169.63.80": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "VOOmobile",
+    "mcc": "206",
+    "mnc": "008",
+    "url": "epdg.epc.mnc008.mcc206.pub.3gppnetwork.org",
+    "records": {
+      "185.3.163.80": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "185.3.162.80": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Americanet",
+    "mcc": "724",
+    "mnc": "026",
+    "url": "epdg.epc.mnc026.mcc724.pub.3gppnetwork.org",
+    "records": {
+      "186.195.153.10": {
+        "Ping Reply": true,
+        "SA Init Response Len": 456
+      }
+    }
+  },
+  {
+    "MNO": "Claro",
+    "mcc": "724",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc724.pub.3gppnetwork.org",
+    "records": {
+      "200.169.116.53": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vivo",
+    "mcc": "724",
+    "mnc": "006",
+    "url": "epdg.epc.mnc006.mcc724.pub.3gppnetwork.org",
+    "records": {
+      "152.255.2.16": {
+        "Ping Reply": true,
+        "SA Init Response Len": 80
+      },
+      "152.255.14.0": {
+        "Ping Reply": true,
+        "SA Init Response Len": 80
+      }
+    }
+  },
+  {
+    "MNO": "Flow",
+    "mcc": "348",
+    "mnc": "170",
+    "url": "epdg.epc.mnc170.mcc348.pub.3gppnetwork.org",
+    "records": {
+      "69.79.196.12": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "B-Mobile",
+    "mcc": "528",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc528.pub.3gppnetwork.org",
+    "records": {
+      "202.152.92.101": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "202.152.85.69": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "DST",
+    "mcc": "528",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc528.pub.3gppnetwork.org",
+    "records": {
+      "202.152.92.101": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "202.152.85.69": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "A1",
+    "mcc": "284",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc284.pub.3gppnetwork.org",
+    "records": {
+      "213.226.0.178": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Vivacom",
+    "mcc": "284",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc284.pub.3gppnetwork.org",
+    "records": {
+      "82.137.72.94": {
+        "Ping Reply": true,
+        "SA Init Response Len": 603
+      },
+      "82.137.72.96": {
+        "Ping Reply": true,
+        "SA Init Response Len": 664
+      }
+    }
+  },
+  {
+    "MNO": "Bell Mobility",
+    "mcc": "302",
+    "mnc": "640",
+    "url": "epdg.epc.mnc640.mcc302.pub.3gppnetwork.org",
+    "records": {
+      "69.158.207.146": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "Bell Mobility",
+    "mcc": "302",
+    "mnc": "610",
+    "url": "epdg.epc.mnc610.mcc302.pub.3gppnetwork.org",
+    "records": {
+      "69.158.242.2": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "2605:b100:680:1f::2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Freedom Mobile",
+    "mcc": "302",
+    "mnc": "490",
+    "url": "epdg.epc.mnc490.mcc302.pub.3gppnetwork.org",
+    "records": {
+      "208.98.223.247": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Rogers",
+    "mcc": "302",
+    "mnc": "720",
+    "url": "epdg.epc.mnc720.mcc302.pub.3gppnetwork.org",
+    "records": {
+      "209.148.157.48": {
+        "Ping Reply": false,
+        "SA Init Response Len": 623
+      }
+    }
+  },
+  {
+    "MNO": "Telus Mobility",
+    "mcc": "302",
+    "mnc": "220",
+    "url": "epdg.epc.mnc220.mcc302.pub.3gppnetwork.org",
+    "records": {
+      "207.219.233.33": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Videotron",
+    "mcc": "302",
+    "mnc": "510",
+    "url": "epdg.epc.mnc510.mcc302.pub.3gppnetwork.org",
+    "records": {
+      "184.163.5.80": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Videotron",
+    "mcc": "302",
+    "mnc": "500",
+    "url": "epdg.epc.mnc500.mcc302.pub.3gppnetwork.org",
+    "records": {
+      "66.130.6.180": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "184.162.85.128": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Movistar",
+    "mcc": "730",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc730.pub.3gppnetwork.org",
+    "records": {
+      "191.125.99.97": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "191.126.99.97": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "WOM",
+    "mcc": "730",
+    "mnc": "009",
+    "url": "epdg.epc.mnc009.mcc730.pub.3gppnetwork.org",
+    "records": {
+      "45.232.35.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Movistar",
+    "mcc": "732",
+    "mnc": "123",
+    "url": "epdg.epc.mnc123.mcc732.pub.3gppnetwork.org",
+    "records": {
+      "190.13.110.250": {
+        "Ping Reply": false,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "WOM",
+    "mcc": "732",
+    "mnc": "360",
+    "url": "epdg.epc.mnc360.mcc732.pub.3gppnetwork.org",
+    "records": {
+      "179.49.228.13": {
+        "Ping Reply": true,
+        "SA Init Response Len": 80
+      },
+      "179.49.229.13": {
+        "Ping Reply": true,
+        "SA Init Response Len": 80
+      }
+    }
+  },
+  {
+    "MNO": "A1 / VIP",
+    "mcc": "219",
+    "mnc": "010",
+    "url": "epdg.epc.mnc010.mcc219.pub.3gppnetwork.org",
+    "records": {
+      "212.91.113.181": {
+        "Ping Reply": false,
+        "SA Init Response Len": 626
+      }
+    }
+  },
+  {
+    "MNO": "PrimeTel",
+    "mcc": "280",
+    "mnc": "020",
+    "url": "epdg.epc.mnc020.mcc280.pub.3gppnetwork.org",
+    "records": {
+      "81.21.46.33": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "81.21.46.65": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "O2",
+    "mcc": "230",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc230.pub.3gppnetwork.org",
+    "records": {
+      "160.218.3.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "160.218.3.4": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "T-Mobile",
+    "mcc": "230",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc230.pub.3gppnetwork.org",
+    "records": {
+      "62.141.11.59": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "62.141.11.101": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "62.141.11.56": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "230",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc230.pub.3gppnetwork.org",
+    "records": {
+      "31.30.69.152": {
+        "Ping Reply": false,
+        "SA Init Response Len": 446
+      },
+      "31.30.69.153": {
+        "Ping Reply": false,
+        "SA Init Response Len": 679
+      }
+    }
+  },
+  {
+    "MNO": "3",
+    "mcc": "238",
+    "mnc": "006",
+    "url": "epdg.epc.mnc006.mcc238.pub.3gppnetwork.org",
+    "records": {
+      "95.209.200.94": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "95.209.200.95": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "TDC",
+    "mcc": "238",
+    "mnc": "010",
+    "url": "epdg.epc.mnc010.mcc238.pub.3gppnetwork.org",
+    "records": {
+      "62.135.161.132": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "62.135.161.44": {
+        "Ping Reply": false,
+        "SA Init Response Len": 464
+      }
+    }
+  },
+  {
+    "MNO": "Telenor",
+    "mcc": "238",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc238.pub.3gppnetwork.org",
+    "records": {
+      "77.214.4.170": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "77.214.4.171": {
+        "Ping Reply": true,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Orange / Altice",
+    "mcc": "370",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc370.pub.3gppnetwork.org",
+    "records": {
+      "190.124.94.8": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "190.124.94.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "CNT movil",
+    "mcc": "740",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc740.pub.3gppnetwork.org",
+    "records": {
+      "200.85.85.20": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "200.85.85.22": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Etisalat",
+    "mcc": "602",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc602.pub.3gppnetwork.org",
+    "records": {
+      "105.203.255.76": {
+        "Ping Reply": false,
+        "SA Init Response Len": 514
+      },
+      "105.203.255.75": {
+        "Ping Reply": false,
+        "SA Init Response Len": 602
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "602",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc602.pub.3gppnetwork.org",
+    "records": {
+      "196.151.225.243": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Elisa",
+    "mcc": "248",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc248.pub.3gppnetwork.org",
+    "records": {
+      "194.204.13.252": {
+        "Ping Reply": false,
+        "SA Init Response Len": 556
+      },
+      "194.204.13.253": {
+        "Ping Reply": false,
+        "SA Init Response Len": 627
+      }
+    }
+  },
+  {
+    "MNO": "Tele2",
+    "mcc": "248",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc248.pub.3gppnetwork.org",
+    "records": {
+      "213.102.142.43": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "213.102.142.27": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "213.102.142.11": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "Faroese Telecom",
+    "mcc": "288",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc288.pub.3gppnetwork.org",
+    "records": {
+      "185.74.210.160": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "185.74.210.224": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "DNA",
+    "mcc": "244",
+    "mnc": "013",
+    "url": "epdg.epc.mnc013.mcc244.pub.3gppnetwork.org",
+    "records": {
+      "213.216.202.76": {
+        "Ping Reply": true,
+        "SA Init Response Len": 493
+      }
+    }
+  },
+  {
+    "MNO": "Elisa",
+    "mcc": "244",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc244.pub.3gppnetwork.org",
+    "records": {
+      "213.161.47.19": {
+        "Ping Reply": false,
+        "SA Init Response Len": 633
+      },
+      "213.161.47.18": {
+        "Ping Reply": false,
+        "SA Init Response Len": 482
+      },
+      "213.161.47.20": {
+        "Ping Reply": false,
+        "SA Init Response Len": 530
+      }
+    }
+  },
+  {
+    "MNO": "Telia",
+    "mcc": "244",
+    "mnc": "091",
+    "url": "epdg.epc.mnc091.mcc244.pub.3gppnetwork.org",
+    "records": {
+      "194.142.89.198": {
+        "Ping Reply": false,
+        "SA Init Response Len": 460
+      },
+      "194.142.89.70": {
+        "Ping Reply": false,
+        "SA Init Response Len": 460
+      }
+    }
+  },
+  {
+    "MNO": "Bouygues Telecom",
+    "mcc": "208",
+    "mnc": "020",
+    "url": "epdg.epc.mnc020.mcc208.pub.3gppnetwork.org",
+    "records": {
+      "62.201.149.81": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "62.201.149.82": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "2001:864:f100::2:8": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2001:864:f100::2:c": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Coriolis",
+    "mcc": "208",
+    "mnc": "027",
+    "url": "epdg.epc.mnc027.mcc208.pub.3gppnetwork.org",
+    "records": {
+      "92.90.28.1": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "92.90.28.2": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "92.90.28.3": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Free Mobile",
+    "mcc": "208",
+    "mnc": "015",
+    "url": "epdg.epc.mnc015.mcc208.pub.3gppnetwork.org",
+    "records": {
+      "212.27.34.141": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "212.27.34.142": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "212.27.34.147": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Lebara",
+    "mcc": "208",
+    "mnc": "038",
+    "url": "epdg.epc.mnc038.mcc208.pub.3gppnetwork.org",
+    "records": {
+      "84.246.115.151": {
+        "Ping Reply": true,
+        "SA Init Response Len": 0
+      },
+      "84.246.113.151": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "NRJ",
+    "mcc": "208",
+    "mnc": "026",
+    "url": "epdg.epc.mnc026.mcc208.pub.3gppnetwork.org",
+    "records": {
+      "193.56.244.208": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "193.56.245.208": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Orange",
+    "mcc": "208",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc208.pub.3gppnetwork.org",
+    "records": {
+      "80.12.36.221": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "80.12.25.138": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "SFR",
+    "mcc": "208",
+    "mnc": "010",
+    "url": "epdg.epc.mnc010.mcc208.pub.3gppnetwork.org",
+    "records": {
+      "92.90.28.4": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "92.90.28.1": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "92.90.28.3": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "1&1",
+    "mcc": "262",
+    "mnc": "023",
+    "url": "epdg.epc.mnc023.mcc262.pub.3gppnetwork.org",
+    "records": {
+      "61.8.143.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 493
+      },
+      "2a00:fbc:3201:c660:10c:2b52:2:2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "T-mobile",
+    "mcc": "262",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "records": {
+      "109.237.187.155": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "109.237.187.145": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "109.237.187.146": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "109.237.187.147": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "109.237.187.153": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "109.237.187.149": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "109.237.187.150": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "109.237.187.151": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "109.237.187.157": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "109.237.187.158": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "109.237.187.159": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "109.237.187.154": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Telefonica / E-Plus",
+    "mcc": "262",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc262.pub.3gppnetwork.org",
+    "records": {
+      "213.20.151.16": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "213.20.31.8": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "62.52.52.30": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "213.20.175.56": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "262",
+    "mnc": "009",
+    "url": "epdg.epc.mnc009.mcc262.pub.3gppnetwork.org",
+    "records": {
+      "139.7.2.205": {
+        "Ping Reply": false,
+        "SA Init Response Len": 625
+      },
+      "139.7.2.202": {
+        "Ping Reply": false,
+        "SA Init Response Len": 652
+      },
+      "2a01:8f1:fe:1000::5": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2a01:8f1:fe:1000::4": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "MTN",
+    "mcc": "620",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc620.pub.3gppnetwork.org",
+    "records": {
+      "41.189.161.185": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "41.189.161.186": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "41.189.160.185": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Cosmote",
+    "mcc": "202",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc202.pub.3gppnetwork.org",
+    "records": {
+      "94.143.177.210": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "94.143.178.220": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "94.143.176.242": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "202",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc202.pub.3gppnetwork.org",
+    "records": {
+      "62.74.30.36": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "62.74.30.4": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Flow",
+    "mcc": "352",
+    "mnc": "110",
+    "url": "epdg.epc.mnc110.mcc352.pub.3gppnetwork.org",
+    "records": {
+      "69.79.196.12": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Orange",
+    "mcc": "340",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc340.pub.3gppnetwork.org",
+    "records": {
+      "81.52.215.129": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "81.52.214.129": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "GTA",
+    "mcc": "310",
+    "mnc": "140",
+    "url": "epdg.epc.mnc140.mcc310.pub.3gppnetwork.org",
+    "records": {
+      "202.151.93.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "China Mobile",
+    "mcc": "454",
+    "mnc": "012",
+    "url": "epdg.epc.mnc012.mcc454.pub.3gppnetwork.org",
+    "records": {
+      "182.239.86.1": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "182.239.118.1": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "SmarTone",
+    "mcc": "454",
+    "mnc": "006",
+    "url": "epdg.epc.mnc006.mcc454.pub.3gppnetwork.org",
+    "records": {
+      "180.219.134.18": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "SUN Mobile / CSL",
+    "mcc": "454",
+    "mnc": "000",
+    "url": "epdg.epc.mnc000.mcc454.pub.3gppnetwork.org",
+    "records": {
+      "120.88.254.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "120.88.254.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "120.88.224.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "120.88.224.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "SUN Mobile / CSL",
+    "mcc": "454",
+    "mnc": "019",
+    "url": "epdg.epc.mnc019.mcc454.pub.3gppnetwork.org",
+    "records": {
+      "120.88.224.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "120.88.254.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "120.88.254.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "120.88.224.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Telekom",
+    "mcc": "216",
+    "mnc": "030",
+    "url": "epdg.epc.mnc030.mcc216.pub.3gppnetwork.org",
+    "records": {
+      "212.51.127.131": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "212.51.127.132": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Telenor",
+    "mcc": "216",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc216.pub.3gppnetwork.org",
+    "records": {
+      "217.79.139.33": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "217.79.139.41": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "NOVA",
+    "mcc": "274",
+    "mnc": "011",
+    "url": "epdg.epc.mnc011.mcc274.pub.3gppnetwork.org",
+    "records": {
+      "78.40.249.219": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "78.40.249.216": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "2a01:6f00:4357::4e28:f9db": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2a01:6f00:4357::4e28:f9d8": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "274",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc274.pub.3gppnetwork.org",
+    "records": {
+      "194.144.230.69": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "194.144.230.65": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Airtel",
+    "mcc": "404",
+    "mnc": "098",
+    "url": "epdg.epc.mnc098.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "106.201.214.114": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Airtel",
+    "mcc": "404",
+    "mnc": "093",
+    "url": "epdg.epc.mnc093.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "117.96.89.25": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Airtel",
+    "mcc": "404",
+    "mnc": "049",
+    "url": "epdg.epc.mnc049.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "106.200.65.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Airtel",
+    "mcc": "404",
+    "mnc": "097",
+    "url": "epdg.epc.mnc097.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "106.201.214.116": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Airtel",
+    "mcc": "404",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "223.224.123.10": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Airtel",
+    "mcc": "404",
+    "mnc": "096",
+    "url": "epdg.epc.mnc096.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "106.201.214.113": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Airtel",
+    "mcc": "404",
+    "mnc": "090",
+    "url": "epdg.epc.mnc090.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "106.201.214.97": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Airtel",
+    "mcc": "404",
+    "mnc": "016",
+    "url": "epdg.epc.mnc016.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "106.200.68.254": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Idea",
+    "mcc": "404",
+    "mnc": "014",
+    "url": "epdg.epc.mnc014.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "42.105.253.7": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "42.105.253.4": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Idea",
+    "mcc": "404",
+    "mnc": "044",
+    "url": "epdg.epc.mnc044.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "203.88.11.33": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "203.88.4.88": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2402:3a80:1060::6": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2402:3a80:1060::5": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Idea",
+    "mcc": "404",
+    "mnc": "012",
+    "url": "epdg.epc.mnc012.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "42.105.253.16": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "42.105.253.19": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Idea",
+    "mcc": "404",
+    "mnc": "024",
+    "url": "epdg.epc.mnc024.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "42.105.61.193": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Idea",
+    "mcc": "404",
+    "mnc": "007",
+    "url": "epdg.epc.mnc007.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "42.105.253.31": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "42.105.253.34": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "42.105.253.37": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "42.105.253.28": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Idea",
+    "mcc": "404",
+    "mnc": "089",
+    "url": "epdg.epc.mnc089.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "42.105.253.22": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "42.105.253.25": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Idea",
+    "mcc": "404",
+    "mnc": "022",
+    "url": "epdg.epc.mnc022.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "203.88.5.84": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "203.88.5.85": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2402:3a80:1060::4": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2402:3a80:1060::3": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Idea",
+    "mcc": "404",
+    "mnc": "004",
+    "url": "epdg.epc.mnc004.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "203.88.5.81": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "203.88.5.80": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Idea",
+    "mcc": "404",
+    "mnc": "056",
+    "url": "epdg.epc.mnc056.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "203.88.5.81": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "203.88.5.80": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2402:3a80:1060::2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2402:3a80:1060::1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "404",
+    "mnc": "015",
+    "url": "epdg.epc.mnc015.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "42.105.253.22": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "42.105.253.25": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "404",
+    "mnc": "088",
+    "url": "epdg.epc.mnc088.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "42.105.253.7": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "42.105.253.4": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "404",
+    "mnc": "013",
+    "url": "epdg.epc.mnc013.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "42.105.253.37": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "42.105.253.28": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "42.105.253.31": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "42.105.253.34": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "404",
+    "mnc": "086",
+    "url": "epdg.epc.mnc086.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "203.88.11.33": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "203.88.4.88": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2402:3a80:1060::5": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2402:3a80:1060::6": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "404",
+    "mnc": "027",
+    "url": "epdg.epc.mnc027.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "203.88.5.84": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "203.88.5.85": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2402:3a80:1060::3": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2402:3a80:1060::4": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "404",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "42.105.253.16": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "42.105.253.19": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "404",
+    "mnc": "046",
+    "url": "epdg.epc.mnc046.mcc404.pub.3gppnetwork.org",
+    "records": {
+      "203.88.11.33": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "203.88.4.88": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2402:3a80:1060::5": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2402:3a80:1060::6": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Smartfren",
+    "mcc": "510",
+    "mnc": "009",
+    "url": "epdg.epc.mnc009.mcc510.pub.3gppnetwork.org",
+    "records": {
+      "115.178.173.4": {
+        "Ping Reply": true,
+        "SA Init Response Len": 456
+      },
+      "115.178.175.4": {
+        "Ping Reply": true,
+        "SA Init Response Len": 456
+      }
+    }
+  },
+  {
+    "MNO": "Smartfren",
+    "mcc": "510",
+    "mnc": "028",
+    "url": "epdg.epc.mnc028.mcc510.pub.3gppnetwork.org",
+    "records": {
+      "115.178.173.4": {
+        "Ping Reply": true,
+        "SA Init Response Len": 456
+      },
+      "115.178.175.4": {
+        "Ping Reply": true,
+        "SA Init Response Len": 456
+      }
+    }
+  },
+  {
+    "MNO": "MTX Connect",
+    "mcc": "901",
+    "mnc": "039",
+    "url": "epdg.epc.mnc039.mcc901.pub.3gppnetwork.org",
+    "records": {
+      "185.11.40.71": {
+        "Ping Reply": true,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Meteor",
+    "mcc": "272",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc272.pub.3gppnetwork.org",
+    "records": {
+      "86.43.56.36": {
+        "Ping Reply": false,
+        "SA Init Response Len": 594
+      },
+      "86.43.56.37": {
+        "Ping Reply": false,
+        "SA Init Response Len": 548
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "272",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc272.pub.3gppnetwork.org",
+    "records": {
+      "89.19.64.93": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "89.19.64.254": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "Cellcom",
+    "mcc": "425",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc425.pub.3gppnetwork.org",
+    "records": {
+      "176.12.159.52": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2a02:14f:358:2f::3": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Hot Mobile",
+    "mcc": "425",
+    "mnc": "007",
+    "url": "epdg.epc.mnc007.mcc425.pub.3gppnetwork.org",
+    "records": {
+      "80.246.131.112": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "80.246.132.112": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Pelephone",
+    "mcc": "425",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc425.pub.3gppnetwork.org",
+    "records": {
+      "91.135.104.90": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "91.135.110.90": {
+        "Ping Reply": true,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "WindTre / Hi3G",
+    "mcc": "222",
+    "mnc": "099",
+    "url": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "records": {
+      "151.58.176.144": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.145": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.3": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.4": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.6": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.7": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.8": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.129": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.130": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.132": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.133": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.134": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.135": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.136": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "spusu",
+    "mcc": "222",
+    "mnc": "056",
+    "url": "epdg.epc.mnc056.mcc222.pub.3gppnetwork.org",
+    "records": {
+      "83.216.32.116": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "83.216.33.116": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "WindTre / WIND",
+    "mcc": "222",
+    "mnc": "088",
+    "url": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "records": {
+      "151.58.176.3": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.4": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.5": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.6": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.7": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.8": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.129": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.130": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.132": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.133": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.134": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.135": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.136": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.144": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.145": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "151.58.176.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Flow",
+    "mcc": "338",
+    "mnc": "180",
+    "url": "epdg.epc.mnc180.mcc338.pub.3gppnetwork.org",
+    "records": {
+      "69.79.196.12": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "KDDI",
+    "mcc": "440",
+    "mnc": "051",
+    "url": "epdg.epc.mnc051.mcc440.pub.3gppnetwork.org",
+    "records": {
+      "27.86.78.98": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "27.86.78.96": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "27.86.78.34": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "27.86.78.32": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2001:268:f638:a000::1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2001:268:f605:a000::1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2001:268:f605:a100::1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2001:268:f638:a100::1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Umniah",
+    "mcc": "416",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc416.pub.3gppnetwork.org",
+    "records": {
+      "37.152.0.8": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "37.152.0.16": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Zain",
+    "mcc": "416",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc416.pub.3gppnetwork.org",
+    "records": {
+      "46.32.97.120": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Beeline",
+    "mcc": "401",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc401.pub.3gppnetwork.org",
+    "records": {
+      "89.44.12.125": {
+        "Ping Reply": false,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Tele2",
+    "mcc": "401",
+    "mnc": "077",
+    "url": "epdg.epc.mnc077.mcc401.pub.3gppnetwork.org",
+    "records": {
+      "217.76.64.27": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Ooredoo",
+    "mcc": "419",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc419.pub.3gppnetwork.org",
+    "records": {
+      "217.69.180.20": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "217.69.190.20": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Bite",
+    "mcc": "247",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc247.pub.3gppnetwork.org",
+    "records": {
+      "185.189.154.172": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "185.189.154.236": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "LMT",
+    "mcc": "247",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc247.pub.3gppnetwork.org",
+    "records": {
+      "212.3.202.29": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "212.3.202.201": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Tele2",
+    "mcc": "247",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc247.pub.3gppnetwork.org",
+    "records": {
+      "83.178.78.43": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "83.178.78.11": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "83.178.78.27": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "FL1",
+    "mcc": "295",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc295.pub.3gppnetwork.org",
+    "records": {
+      "188.21.252.242": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "188.21.252.244": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Tele2",
+    "mcc": "246",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc246.pub.3gppnetwork.org",
+    "records": {
+      "213.103.174.11": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "213.103.174.27": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "Orange",
+    "mcc": "270",
+    "mnc": "099",
+    "url": "epdg.epc.mnc099.mcc270.pub.3gppnetwork.org",
+    "records": {
+      "212.224.253.168": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "212.224.253.170": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Post",
+    "mcc": "270",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc270.pub.3gppnetwork.org",
+    "records": {
+      "213.166.32.185": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "213.166.32.184": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Tango",
+    "mcc": "270",
+    "mnc": "077",
+    "url": "epdg.epc.mnc077.mcc270.pub.3gppnetwork.org",
+    "records": {
+      "212.66.71.15": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "212.66.71.6": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Telekom Malaysia",
+    "mcc": "502",
+    "mnc": "011",
+    "url": "epdg.epc.mnc011.mcc502.pub.3gppnetwork.org",
+    "records": {
+      "42.153.24.64": {
+        "Ping Reply": false,
+        "SA Init Response Len": 456
+      },
+      "42.153.28.64": {
+        "Ping Reply": false,
+        "SA Init Response Len": 456
+      }
+    }
+  },
+  {
+    "MNO": "Celcom",
+    "mcc": "502",
+    "mnc": "019",
+    "url": "epdg.epc.mnc019.mcc502.pub.3gppnetwork.org",
+    "records": {
+      "183.171.2.28": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "DiGi",
+    "mcc": "502",
+    "mnc": "016",
+    "url": "epdg.epc.mnc016.mcc502.pub.3gppnetwork.org",
+    "records": {
+      "115.164.251.65": {
+        "Ping Reply": true,
+        "SA Init Response Len": 456
+      },
+      "115.164.123.65": {
+        "Ping Reply": true,
+        "SA Init Response Len": 456
+      }
+    }
+  },
+  {
+    "MNO": "U Mobile",
+    "mcc": "502",
+    "mnc": "018",
+    "url": "epdg.epc.mnc018.mcc502.pub.3gppnetwork.org",
+    "records": {
+      "123.136.100.132": {
+        "Ping Reply": true,
+        "SA Init Response Len": 456
+      },
+      "123.136.110.180": {
+        "Ping Reply": true,
+        "SA Init Response Len": 456
+      }
+    }
+  },
+  {
+    "MNO": "Webe Digital",
+    "mcc": "502",
+    "mnc": "153",
+    "url": "epdg.epc.mnc153.mcc502.pub.3gppnetwork.org",
+    "records": {
+      "42.153.24.64": {
+        "Ping Reply": false,
+        "SA Init Response Len": 456
+      },
+      "42.153.28.64": {
+        "Ping Reply": false,
+        "SA Init Response Len": 456
+      }
+    }
+  },
+  {
+    "MNO": "AT&T / IUSACell",
+    "mcc": "334",
+    "mnc": "050",
+    "url": "epdg.epc.mnc050.mcc334.pub.3gppnetwork.org",
+    "records": {
+      "201.175.142.200": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Monaco Telecom",
+    "mcc": "212",
+    "mnc": "010",
+    "url": "epdg.epc.mnc010.mcc212.pub.3gppnetwork.org",
+    "records": {
+      "82.113.13.195": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Telekom / T-mobile",
+    "mcc": "297",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc297.pub.3gppnetwork.org",
+    "records": {
+      "77.222.22.17": {
+        "Ping Reply": false,
+        "SA Init Response Len": 560
+      }
+    }
+  },
+  {
+    "MNO": "Flow",
+    "mcc": "354",
+    "mnc": "860",
+    "url": "epdg.epc.mnc860.mcc354.pub.3gppnetwork.org",
+    "records": {
+      "69.79.196.12": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Orange",
+    "mcc": "604",
+    "mnc": "000",
+    "url": "epdg.epc.mnc000.mcc604.pub.3gppnetwork.org",
+    "records": {
+      "197.230.202.185": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "197.230.202.184": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Mytel",
+    "mcc": "414",
+    "mnc": "009",
+    "url": "epdg.epc.mnc009.mcc414.pub.3gppnetwork.org",
+    "records": {
+      "103.85.107.15": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "MTC",
+    "mcc": "649",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc649.pub.3gppnetwork.org",
+    "records": {
+      "41.219.127.85": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "41.219.127.84": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "KPN",
+    "mcc": "204",
+    "mnc": "008",
+    "url": "epdg.epc.mnc008.mcc204.pub.3gppnetwork.org",
+    "records": {
+      "62.133.76.240": {
+        "Ping Reply": true,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "T-Mobile",
+    "mcc": "204",
+    "mnc": "020",
+    "url": "epdg.epc.mnc020.mcc204.pub.3gppnetwork.org",
+    "records": {
+      "84.241.236.217": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "84.241.236.220": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "84.241.236.218": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "84.241.236.219": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "84.241.236.222": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "84.241.236.221": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "T-Mobile",
+    "mcc": "204",
+    "mnc": "016",
+    "url": "epdg.epc.mnc016.mcc204.pub.3gppnetwork.org",
+    "records": {
+      "84.241.238.67": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "84.241.238.66": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "204",
+    "mnc": "004",
+    "url": "epdg.epc.mnc004.mcc204.pub.3gppnetwork.org",
+    "records": {
+      "109.39.144.148": {
+        "Ping Reply": true,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Spark Mobile",
+    "mcc": "530",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc530.pub.3gppnetwork.org",
+    "records": {
+      "122.63.255.109": {
+        "Ping Reply": false,
+        "SA Init Response Len": 497
+      },
+      "122.63.255.112": {
+        "Ping Reply": false,
+        "SA Init Response Len": 497
+      },
+      "122.63.255.115": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "eRate",
+    "mcc": "242",
+    "mnc": "015",
+    "url": "epdg.epc.mnc015.mcc242.pub.3gppnetwork.org",
+    "records": {
+      "77.16.1.3": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "77.16.1.5": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "ICE",
+    "mcc": "242",
+    "mnc": "014",
+    "url": "epdg.epc.mnc014.mcc242.pub.3gppnetwork.org",
+    "records": {
+      "217.13.9.76": {
+        "Ping Reply": true,
+        "SA Init Response Len": 460
+      }
+    }
+  },
+  {
+    "MNO": "Network Norway",
+    "mcc": "242",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc242.pub.3gppnetwork.org",
+    "records": {
+      "89.9.92.41": {
+        "Ping Reply": false,
+        "SA Init Response Len": 460
+      }
+    }
+  },
+  {
+    "MNO": "Telenor",
+    "mcc": "242",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc242.pub.3gppnetwork.org",
+    "records": {
+      "77.16.1.3": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "77.16.1.5": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Telia / NetCom",
+    "mcc": "242",
+    "mnc": "008",
+    "url": "epdg.epc.mnc008.mcc242.pub.3gppnetwork.org",
+    "records": {
+      "195.41.220.240": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "195.41.220.241": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Omantel Mobile",
+    "mcc": "422",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc422.pub.3gppnetwork.org",
+    "records": {
+      "212.72.0.52": {
+        "Ping Reply": false,
+        "SA Init Response Len": 444
+      },
+      "212.72.0.48": {
+        "Ping Reply": false,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Jazz",
+    "mcc": "410",
+    "mnc": "007",
+    "url": "epdg.epc.mnc007.mcc410.pub.3gppnetwork.org",
+    "records": {
+      "119.160.84.248": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "119.160.95.248": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "+Movil",
+    "mcc": "714",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc714.pub.3gppnetwork.org",
+    "records": {
+      "201.227.226.190": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Movistar",
+    "mcc": "714",
+    "mnc": "020",
+    "url": "epdg.epc.mnc020.mcc714.pub.3gppnetwork.org",
+    "records": {
+      "200.108.53.208": {
+        "Ping Reply": false,
+        "SA Init Response Len": 468
+      }
+    }
+  },
+  {
+    "MNO": "Entel",
+    "mcc": "716",
+    "mnc": "017",
+    "url": "epdg.epc.mnc017.mcc716.pub.3gppnetwork.org",
+    "records": {
+      "186.160.129.222": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "186.160.197.30": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Movistar",
+    "mcc": "716",
+    "mnc": "006",
+    "url": "epdg.epc.mnc006.mcc716.pub.3gppnetwork.org",
+    "records": {
+      "201.230.206.157": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "201.230.206.7": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "DITO",
+    "mcc": "515",
+    "mnc": "066",
+    "url": "epdg.epc.mnc066.mcc515.pub.3gppnetwork.org",
+    "records": {
+      "131.226.94.82": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "131.226.73.137": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Orange",
+    "mcc": "260",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc260.pub.3gppnetwork.org",
+    "records": {
+      "217.116.100.14": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.102.20": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.102.16": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.100.18": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.100.23": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.100.19": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.102.18": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.102.15": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.102.19": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.100.22": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.100.15": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.102.17": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.102.14": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "217.116.100.20": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "Play",
+    "mcc": "260",
+    "mnc": "098",
+    "url": "epdg.epc.mnc098.mcc260.pub.3gppnetwork.org",
+    "records": {
+      "89.108.195.110": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Play",
+    "mcc": "260",
+    "mnc": "006",
+    "url": "epdg.epc.mnc006.mcc260.pub.3gppnetwork.org",
+    "records": {
+      "89.108.200.112": {
+        "Ping Reply": false,
+        "SA Init Response Len": 461
+      }
+    }
+  },
+  {
+    "MNO": "Plus",
+    "mcc": "260",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc260.pub.3gppnetwork.org",
+    "records": {
+      "37.248.184.80": {
+        "Ping Reply": false,
+        "SA Init Response Len": 680
+      },
+      "31.0.184.80": {
+        "Ping Reply": false,
+        "SA Init Response Len": 649
+      }
+    }
+  },
+  {
+    "MNO": "T-Mobile",
+    "mcc": "260",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc260.pub.3gppnetwork.org",
+    "records": {
+      "178.182.200.131": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "178.182.201.31": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "178.182.200.31": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "Claro",
+    "mcc": "330",
+    "mnc": "110",
+    "url": "epdg.epc.mnc110.mcc330.pub.3gppnetwork.org",
+    "records": {
+      "72.50.33.20": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "72.50.33.21": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Ooredoo",
+    "mcc": "427",
+    "mnc": "006",
+    "url": "epdg.epc.mnc006.mcc427.pub.3gppnetwork.org",
+    "records": {
+      "185.239.92.11": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "427",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc427.pub.3gppnetwork.org",
+    "records": {
+      "80.76.171.80": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Orange",
+    "mcc": "647",
+    "mnc": "000",
+    "url": "epdg.epc.mnc000.mcc647.pub.3gppnetwork.org",
+    "records": {
+      "80.12.213.162": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "80.12.213.163": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Digi Mobil",
+    "mcc": "226",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc226.pub.3gppnetwork.org",
+    "records": {
+      "82.137.15.252": {
+        "Ping Reply": false,
+        "SA Init Response Len": 444
+      },
+      "82.137.15.207": {
+        "Ping Reply": false,
+        "SA Init Response Len": 444
+      },
+      "82.137.15.212": {
+        "Ping Reply": false,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Orange",
+    "mcc": "226",
+    "mnc": "010",
+    "url": "epdg.epc.mnc010.mcc226.pub.3gppnetwork.org",
+    "records": {
+      "109.166.155.233": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "109.166.155.232": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "93.113.56.233": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "93.113.56.232": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "226",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc226.pub.3gppnetwork.org",
+    "records": {
+      "46.97.10.152": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "46.97.10.153": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Beeline",
+    "mcc": "250",
+    "mnc": "099",
+    "url": "epdg.epc.mnc099.mcc250.pub.3gppnetwork.org",
+    "records": {
+      "85.249.19.248": {
+        "Ping Reply": true,
+        "SA Init Response Len": 456
+      },
+      "85.249.16.248": {
+        "Ping Reply": true,
+        "SA Init Response Len": 456
+      }
+    }
+  },
+  {
+    "MNO": "Megafon",
+    "mcc": "250",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc250.pub.3gppnetwork.org",
+    "records": {
+      "31.173.34.209": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "85.26.231.145": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Motiv",
+    "mcc": "250",
+    "mnc": "035",
+    "url": "epdg.epc.mnc035.mcc250.pub.3gppnetwork.org",
+    "records": {
+      "217.148.52.254": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "MTS",
+    "mcc": "250",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc250.pub.3gppnetwork.org",
+    "records": {
+      "213.87.142.77": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "2a00:1fa4:0:e::1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Tele2",
+    "mcc": "250",
+    "mnc": "020",
+    "url": "epdg.epc.mnc020.mcc250.pub.3gppnetwork.org",
+    "records": {
+      "217.169.82.241": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "176.59.95.161": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "176.59.95.160": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "176.59.159.191": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "176.59.159.190": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "176.59.63.79": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "176.59.63.78": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "217.169.82.242": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Yota",
+    "mcc": "250",
+    "mnc": "011",
+    "url": "epdg.epc.mnc011.mcc250.pub.3gppnetwork.org",
+    "records": {
+      "31.173.34.209": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Flow",
+    "mcc": "356",
+    "mnc": "110",
+    "url": "epdg.epc.mnc110.mcc356.pub.3gppnetwork.org",
+    "records": {
+      "69.79.196.12": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Flow",
+    "mcc": "358",
+    "mnc": "110",
+    "url": "epdg.epc.mnc110.mcc358.pub.3gppnetwork.org",
+    "records": {
+      "69.79.196.12": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Flow",
+    "mcc": "360",
+    "mnc": "110",
+    "url": "epdg.epc.mnc110.mcc360.pub.3gppnetwork.org",
+    "records": {
+      "69.79.196.12": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Mobily",
+    "mcc": "420",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc420.pub.3gppnetwork.org",
+    "records": {
+      "86.51.51.56": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "STC / Al Jawal",
+    "mcc": "420",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc420.pub.3gppnetwork.org",
+    "records": {
+      "212.215.132.243": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "212.215.132.253": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "212.215.132.252": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "212.215.132.250": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "212.215.132.242": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "212.215.132.245": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "212.215.132.249": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "212.215.132.251": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "212.215.132.241": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "212.215.132.244": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "SingTel",
+    "mcc": "525",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc525.pub.3gppnetwork.org",
+    "records": {
+      "111.65.100.17": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "111.65.100.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Starhub",
+    "mcc": "525",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc525.pub.3gppnetwork.org",
+    "records": {
+      "203.116.25.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "122.11.213.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "O2",
+    "mcc": "231",
+    "mnc": "006",
+    "url": "epdg.epc.mnc006.mcc231.pub.3gppnetwork.org",
+    "records": {
+      "90.176.30.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 80
+      },
+      "90.176.30.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 80
+      }
+    }
+  },
+  {
+    "MNO": "Orange",
+    "mcc": "231",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc231.pub.3gppnetwork.org",
+    "records": {
+      "213.151.204.237": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "85.237.227.21": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "2a01:c840:180:2::1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2a01:c840:181:2::1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Swan / 4ka",
+    "mcc": "231",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc231.pub.3gppnetwork.org",
+    "records": {
+      "84.245.112.74": {
+        "Ping Reply": false,
+        "SA Init Response Len": 456
+      }
+    }
+  },
+  {
+    "MNO": "Telekom",
+    "mcc": "231",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc231.pub.3gppnetwork.org",
+    "records": {
+      "195.91.54.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "195.91.54.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "Mobitel",
+    "mcc": "293",
+    "mnc": "041",
+    "url": "epdg.epc.mnc041.mcc293.pub.3gppnetwork.org",
+    "records": {
+      "213.229.192.67": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "213.229.192.82": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "2a02:e20:1050::1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "2a02:e20:3050::1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "T-2",
+    "mcc": "293",
+    "mnc": "064",
+    "url": "epdg.epc.mnc064.mcc293.pub.3gppnetwork.org",
+    "records": {
+      "84.255.211.75": {
+        "Ping Reply": false,
+        "SA Init Response Len": 468
+      }
+    }
+  },
+  {
+    "MNO": "Cell C",
+    "mcc": "655",
+    "mnc": "007",
+    "url": "epdg.epc.mnc007.mcc655.pub.3gppnetwork.org",
+    "records": {
+      "41.50.128.53": {
+        "Ping Reply": true,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "MTN",
+    "mcc": "655",
+    "mnc": "010",
+    "url": "epdg.epc.mnc010.mcc655.pub.3gppnetwork.org",
+    "records": {
+      "41.208.50.117": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Telkom",
+    "mcc": "655",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc655.pub.3gppnetwork.org",
+    "records": {
+      "41.246.191.254": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Vodacom",
+    "mcc": "655",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc655.pub.3gppnetwork.org",
+    "records": {
+      "41.1.162.233": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "41.1.162.232": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "Alta Tecnologia en Comunicacions",
+    "mcc": "214",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc214.pub.3gppnetwork.org",
+    "records": {
+      "212.121.254.243": {
+        "Ping Reply": true,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Digi.Mobil",
+    "mcc": "214",
+    "mnc": "022",
+    "url": "epdg.epc.mnc022.mcc214.pub.3gppnetwork.org",
+    "records": {
+      "79.116.252.219": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "79.116.252.213": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Movistar",
+    "mcc": "214",
+    "mnc": "007",
+    "url": "epdg.epc.mnc007.mcc214.pub.3gppnetwork.org",
+    "records": {
+      "213.4.100.153": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "213.4.100.145": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "213.4.100.137": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "213.4.100.129": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Movistar",
+    "mcc": "214",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc214.pub.3gppnetwork.org",
+    "records": {
+      "213.4.100.129": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "213.4.100.153": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "213.4.100.145": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "213.4.100.137": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Orange",
+    "mcc": "214",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc214.pub.3gppnetwork.org",
+    "records": {
+      "92.58.249.252": {
+        "Ping Reply": false,
+        "SA Init Response Len": 516
+      },
+      "92.58.249.253": {
+        "Ping Reply": false,
+        "SA Init Response Len": 548
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "214",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc214.pub.3gppnetwork.org",
+    "records": {
+      "212.166.195.11": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "212.166.195.10": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Dialog",
+    "mcc": "413",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc413.pub.3gppnetwork.org",
+    "records": {
+      "122.255.0.80": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "122.255.0.82": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "3",
+    "mcc": "240",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc240.pub.3gppnetwork.org",
+    "records": {
+      "79.138.136.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 659
+      },
+      "79.138.136.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 629
+      }
+    }
+  },
+  {
+    "MNO": "Tele2",
+    "mcc": "240",
+    "mnc": "007",
+    "url": "epdg.epc.mnc007.mcc240.pub.3gppnetwork.org",
+    "records": {
+      "213.102.118.43": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "213.102.118.11": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "213.102.118.27": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Telenor",
+    "mcc": "240",
+    "mnc": "008",
+    "url": "epdg.epc.mnc008.mcc240.pub.3gppnetwork.org",
+    "records": {
+      "82.183.102.12": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "82.183.102.4": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Telia",
+    "mcc": "240",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc240.pub.3gppnetwork.org",
+    "records": {
+      "217.214.143.73": {
+        "Ping Reply": false,
+        "SA Init Response Len": 460
+      },
+      "217.214.144.73": {
+        "Ping Reply": true,
+        "SA Init Response Len": 460
+      }
+    }
+  },
+  {
+    "MNO": "Salt Mobile",
+    "mcc": "228",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc228.pub.3gppnetwork.org",
+    "records": {
+      "213.55.135.249": {
+        "Ping Reply": false,
+        "SA Init Response Len": 444
+      },
+      "213.55.134.249": {
+        "Ping Reply": false,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Sunrise",
+    "mcc": "228",
+    "mnc": "053",
+    "url": "epdg.epc.mnc053.mcc228.pub.3gppnetwork.org",
+    "records": {
+      "46.140.1.8": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Sunrise",
+    "mcc": "228",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc228.pub.3gppnetwork.org",
+    "records": {
+      "194.230.147.254": {
+        "Ping Reply": false,
+        "SA Init Response Len": 80
+      },
+      "194.230.148.254": {
+        "Ping Reply": false,
+        "SA Init Response Len": 80
+      }
+    }
+  },
+  {
+    "MNO": "Chunghwa Telecom",
+    "mcc": "466",
+    "mnc": "092",
+    "url": "epdg.epc.mnc092.mcc466.pub.3gppnetwork.org",
+    "records": {
+      "221.120.23.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "221.120.20.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "221.120.20.11": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "221.120.23.11": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Taiwan Mobile",
+    "mcc": "466",
+    "mnc": "097",
+    "url": "epdg.epc.mnc097.mcc466.pub.3gppnetwork.org",
+    "records": {
+      "175.96.62.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      },
+      "175.96.63.1": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "Vodacom",
+    "mcc": "640",
+    "mnc": "004",
+    "url": "epdg.epc.mnc004.mcc640.pub.3gppnetwork.org",
+    "records": {
+      "197.250.3.147": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "197.250.4.147": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "AIS",
+    "mcc": "520",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc520.pub.3gppnetwork.org",
+    "records": {
+      "119.31.123.26": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "119.31.121.14": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "dtac TriNet",
+    "mcc": "520",
+    "mnc": "005",
+    "url": "epdg.epc.mnc005.mcc520.pub.3gppnetwork.org",
+    "records": {
+      "111.84.112.252": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      },
+      "111.84.240.252": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "TrueMove H",
+    "mcc": "520",
+    "mnc": "004",
+    "url": "epdg.epc.mnc004.mcc520.pub.3gppnetwork.org",
+    "records": {
+      "61.91.170.166": {
+        "Ping Reply": false,
+        "SA Init Response Len": 444
+      },
+      "61.91.170.102": {
+        "Ping Reply": false,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Avea",
+    "mcc": "286",
+    "mnc": "003",
+    "url": "epdg.epc.mnc003.mcc286.pub.3gppnetwork.org",
+    "records": {
+      "188.41.228.21": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "188.41.229.37": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "188.41.230.27": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "188.41.226.37": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Turkcell",
+    "mcc": "286",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc286.pub.3gppnetwork.org",
+    "records": {
+      "188.59.221.1": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "188.59.228.1": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "188.59.227.1": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "188.59.223.1": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "286",
+    "mnc": "002",
+    "url": "epdg.epc.mnc002.mcc286.pub.3gppnetwork.org",
+    "records": {
+      "212.65.140.70": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "217.31.250.156": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "217.31.250.158": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Flow",
+    "mcc": "376",
+    "mnc": "350",
+    "url": "epdg.epc.mnc350.mcc376.pub.3gppnetwork.org",
+    "records": {
+      "69.79.196.12": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "lifecell",
+    "mcc": "255",
+    "mnc": "006",
+    "url": "epdg.epc.mnc006.mcc255.pub.3gppnetwork.org",
+    "records": {
+      "212.58.175.228": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "212.58.172.228": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "255",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc255.pub.3gppnetwork.org",
+    "records": {
+      "77.52.213.63": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "77.52.213.127": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "BT OnePhone",
+    "mcc": "234",
+    "mnc": "008",
+    "url": "epdg.epc.mnc008.mcc234.pub.3gppnetwork.org",
+    "records": {
+      "81.131.31.229": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "62.6.163.99": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "T-Mobile",
+    "mcc": "234",
+    "mnc": "030",
+    "url": "epdg.epc.mnc030.mcc234.pub.3gppnetwork.org",
+    "records": {
+      "46.68.59.19": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "46.68.57.32": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "46.68.58.10": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Home Office",
+    "mcc": "234",
+    "mnc": "071",
+    "url": "epdg.epc.mnc071.mcc234.pub.3gppnetwork.org",
+    "records": {
+      "46.68.57.32": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "46.68.58.10": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "46.68.59.19": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "3",
+    "mcc": "234",
+    "mnc": "020",
+    "url": "epdg.epc.mnc020.mcc234.pub.3gppnetwork.org",
+    "records": {
+      "185.153.237.97": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Orange",
+    "mcc": "234",
+    "mnc": "033",
+    "url": "epdg.epc.mnc033.mcc234.pub.3gppnetwork.org",
+    "records": {
+      "46.68.57.32": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "46.68.58.10": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "46.68.59.19": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Sure Guernsey",
+    "mcc": "234",
+    "mnc": "055",
+    "url": "epdg.epc.mnc055.mcc234.pub.3gppnetwork.org",
+    "records": {
+      "212.30.15.204": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "212.30.15.205": {
+        "Ping Reply": true,
+        "SA Init Response Len": 493
+      }
+    }
+  },
+  {
+    "MNO": "Tata Communications Ltd",
+    "mcc": "234",
+    "mnc": "027",
+    "url": "epdg.epc.mnc027.mcc234.pub.3gppnetwork.org",
+    "records": {
+      "66.198.180.11": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "O2",
+    "mcc": "234",
+    "mnc": "010",
+    "url": "epdg.epc.mnc010.mcc234.pub.3gppnetwork.org",
+    "records": {
+      "87.194.9.8": {
+        "Ping Reply": false,
+        "SA Init Response Len": 609
+      },
+      "87.194.88.8": {
+        "Ping Reply": false,
+        "SA Init Response Len": 605
+      },
+      "87.194.89.8": {
+        "Ping Reply": false,
+        "SA Init Response Len": 573
+      },
+      "87.194.8.8": {
+        "Ping Reply": false,
+        "SA Init Response Len": 659
+      }
+    }
+  },
+  {
+    "MNO": "Virgin Mobile",
+    "mcc": "234",
+    "mnc": "038",
+    "url": "epdg.epc.mnc038.mcc234.pub.3gppnetwork.org",
+    "records": {
+      "80.0.253.2": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      },
+      "62.254.96.98": {
+        "Ping Reply": false,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Vodafone",
+    "mcc": "234",
+    "mnc": "015",
+    "url": "epdg.epc.mnc015.mcc234.pub.3gppnetwork.org",
+    "records": {
+      "88.82.11.208": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "88.82.11.221": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      },
+      "148.252.188.96": {
+        "Ping Reply": true,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Appalachian Wireless",
+    "mcc": "310",
+    "mnc": "130",
+    "url": "epdg.epc.mnc130.mcc310.pub.3gppnetwork.org",
+    "records": {
+      "162.247.206.25": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "162.247.206.24": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "AT&T Mobility",
+    "mcc": "312",
+    "mnc": "670",
+    "url": "epdg.epc.mnc670.mcc312.pub.3gppnetwork.org",
+    "records": {
+      "107.239.59.40": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "AT&T Mobility",
+    "mcc": "310",
+    "mnc": "950",
+    "url": "epdg.epc.mnc950.mcc310.pub.3gppnetwork.org",
+    "records": {
+      "107.239.59.40": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "AT&T Mobility",
+    "mcc": "312",
+    "mnc": "280",
+    "url": "epdg.epc.mnc280.mcc312.pub.3gppnetwork.org",
+    "records": {
+      "216.176.175.212": {
+        "Ping Reply": true,
+        "SA Init Response Len": 444
+      }
+    }
+  },
+  {
+    "MNO": "Evolve",
+    "mcc": "310",
+    "mnc": "990",
+    "url": "epdg.epc.mnc990.mcc310.pub.3gppnetwork.org",
+    "records": {
+      "199.66.247.92": {
+        "Ping Reply": true,
+        "SA Init Response Len": 468
+      }
+    }
+  },
+  {
+    "MNO": "GCI Wireless",
+    "mcc": "311",
+    "mnc": "370",
+    "url": "epdg.epc.mnc370.mcc311.pub.3gppnetwork.org",
+    "records": {
+      "24.237.159.203": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      },
+      "24.237.159.140": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "T-Mobile",
+    "mcc": "310",
+    "mnc": "260",
+    "url": "epdg.epc.mnc260.mcc310.pub.3gppnetwork.org",
+    "records": {
+      "208.54.2.163": {
+        "Ping Reply": true,
+        "SA Init Response Len": 460
+      }
+    }
+  },
+  {
+    "MNO": "T-Mobile",
+    "mcc": "310",
+    "mnc": "310",
+    "url": "epdg.epc.mnc310.mcc310.pub.3gppnetwork.org",
+    "records": {
+      "66.94.30.56": {
+        "Ping Reply": true,
+        "SA Init Response Len": 460
+      }
+    }
+  },
+  {
+    "MNO": "Union Wireless",
+    "mcc": "310",
+    "mnc": "020",
+    "url": "epdg.epc.mnc020.mcc310.pub.3gppnetwork.org",
+    "records": {
+      "166.230.162.71": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      },
+      "166.230.163.71": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  },
+  {
+    "MNO": "Verizon Wireless",
+    "mcc": "312",
+    "mnc": "480",
+    "url": "epdg.epc.mnc480.mcc312.pub.3gppnetwork.org",
+    "records": {
+      "66.171.30.212": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "Viaero Wireless",
+    "mcc": "310",
+    "mnc": "450",
+    "url": "epdg.epc.mnc450.mcc310.pub.3gppnetwork.org",
+    "records": {
+      "137.83.96.104": {
+        "Ping Reply": false,
+        "SA Init Response Len": 477
+      },
+      "137.83.97.104": {
+        "Ping Reply": false,
+        "SA Init Response Len": 66
+      }
+    }
+  },
+  {
+    "MNO": "Claro",
+    "mcc": "748",
+    "mnc": "010",
+    "url": "epdg.epc.mnc010.mcc748.pub.3gppnetwork.org",
+    "records": {
+      "131.100.108.126": {
+        "Ping Reply": true,
+        "SA Init Response Len": 452
+      },
+      "131.100.108.127": {
+        "Ping Reply": false,
+        "SA Init Response Len": 452
+      }
+    }
+  },
+  {
+    "MNO": "Movistar",
+    "mcc": "748",
+    "mnc": "007",
+    "url": "epdg.epc.mnc007.mcc748.pub.3gppnetwork.org",
+    "records": {
+      "186.8.59.96": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      },
+      "186.8.59.128": {
+        "Ping Reply": true,
+        "SA Init Response Len": 64
+      }
+    }
+  },
+  {
+    "MNO": "MobiFone",
+    "mcc": "452",
+    "mnc": "001",
+    "url": "epdg.epc.mnc001.mcc452.pub.3gppnetwork.org",
+    "records": {
+      "103.156.9.160": {
+        "Ping Reply": false,
+        "SA Init Response Len": 612
+      },
+      "103.156.38.160": {
+        "Ping Reply": false,
+        "SA Init Response Len": 676
+      }
+    }
+  },
+  {
+    "MNO": "Viettel",
+    "mcc": "452",
+    "mnc": "004",
+    "url": "epdg.epc.mnc004.mcc452.pub.3gppnetwork.org",
+    "records": {
+      "27.68.226.241": {
+        "Ping Reply": false,
+        "SA Init Response Len": 0
+      }
+    }
+  }
+]
