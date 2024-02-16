@@ -1,2 +1,2 @@
-# itasec
-Repo for Software developed for ITASEC 2024 Conference.
+# EPDG IKEv2 Scanner
+Repo for EPDG IKEv2 Software developed for ITASEC 2024 Conference.
