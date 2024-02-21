@@ -1,2 +1,14 @@
 # EPDG IKEv2 Scanner
-Repo for EPDG IKEv2 Software developed for ITASEC 2024 Conference.
+An ePDG IKEv2 Scanner software that can establish an IKEv2 SA with all existing ePDGs.
+
+## How to use it
+To compile the program:
+```bash
+go build
+```
+
+To run it, type:
+```bash
+sudo ./epdg_ue
+```
+

@@ -30,7 +30,7 @@ var (
 
 func main() {
 	// Read Scan Result File
-	file, err := os.Open("scan-result.json")
+	file, err := os.Open("scan-results.json")
 	checkError(err)
 	defer file.Close()
 
@@ -93,31 +93,34 @@ func main() {
 		proposal.EncryptionAlgorithm.BuildTransform(message.TypeEncryptionAlgorithm, message.ENCR_AES_CTR, &attributeType, &keyLength192, nil)
 		proposal.EncryptionAlgorithm.BuildTransform(message.TypeEncryptionAlgorithm, message.ENCR_AES_CTR, &attributeType, &keyLength128, nil)
 		proposal.EncryptionAlgorithm.BuildTransform(message.TypeEncryptionAlgorithm, message.ENCR_3DES, nil, nil, nil)
-		//proposal.EncryptionAlgorithm.BuildTransform(message.TypeEncryptionAlgorithm, message.ENCR_DES, nil, nil, nil)
+		proposal.EncryptionAlgorithm.BuildTransform(message.TypeEncryptionAlgorithm, message.ENCR_DES, nil, nil, nil)
+
 		// Integrity
 		proposal.IntegrityAlgorithm.BuildTransform(message.TypeIntegrityAlgorithm, message.AUTH_HMAC_SHA1_96, nil, nil, nil)
 		proposal.IntegrityAlgorithm.BuildTransform(message.TypeIntegrityAlgorithm, message.AUTH_HMAC_MD5_96, nil, nil, nil)
 		proposal.IntegrityAlgorithm.BuildTransform(message.TypeIntegrityAlgorithm, message.AUTH_HMAC_SHA2_256_128, nil, nil, nil)
 		proposal.IntegrityAlgorithm.BuildTransform(message.TypeIntegrityAlgorithm, message.AUTH_HMAC_SHA2_512_256, nil, nil, nil)
+
 		// PRF
 		proposal.PseudorandomFunction.BuildTransform(message.TypePseudorandomFunction, message.PRF_HMAC_MD5, nil, nil, nil)
-		//proposal.PseudorandomFunction.BuildTransform(message.TypePseudorandomFunction, message.PRF_HMAC_SHA1, nil, nil, nil)
-		//proposal.PseudorandomFunction.BuildTransform(message.TypePseudorandomFunction, message.PRF_HMAC_SHA2_256, nil, nil, nil)
-		//proposal.PseudorandomFunction.BuildTransform(message.TypePseudorandomFunction, message.PRF_HMAC_SHA2_384, nil, nil, nil)
-		//proposal.PseudorandomFunction.BuildTransform(message.TypePseudorandomFunction, message.PRF_HMAC_SHA2_512, nil, nil, nil)
+		proposal.PseudorandomFunction.BuildTransform(message.TypePseudorandomFunction, message.PRF_HMAC_SHA1, nil, nil, nil)
+		proposal.PseudorandomFunction.BuildTransform(message.TypePseudorandomFunction, message.PRF_HMAC_SHA2_256, nil, nil, nil)
+		proposal.PseudorandomFunction.BuildTransform(message.TypePseudorandomFunction, message.PRF_HMAC_SHA2_384, nil, nil, nil)
+		proposal.PseudorandomFunction.BuildTransform(message.TypePseudorandomFunction, message.PRF_HMAC_SHA2_512, nil, nil, nil)
+
 		// DH
 		//proposal.DiffieHellmanGroup.BuildTransform(message.TypeDiffieHellmanGroup, message.DH_768_BIT_MODP, nil, nil, nil)
 		//proposal.DiffieHellmanGroup.BuildTransform(message.TypeDiffieHellmanGroup, message.DH_1024_BIT_MODP, nil, nil, nil)
 		//proposal.DiffieHellmanGroup.BuildTransform(message.TypeDiffieHellmanGroup, message.DH_1536_BIT_MODP, nil, nil, nil)
-		proposal.DiffieHellmanGroup.BuildTransform(message.TypeDiffieHellmanGroup, message.DH_2048_BIT_MODP, nil, nil, nil)
+		//proposal.DiffieHellmanGroup.BuildTransform(message.TypeDiffieHellmanGroup, message.DH_2048_BIT_MODP, nil, nil, nil)
 		//proposal.DiffieHellmanGroup.BuildTransform(message.TypeDiffieHellmanGroup, message.DH_3072_BIT_MODP, nil, nil, nil)
 		//proposal.DiffieHellmanGroup.BuildTransform(message.TypeDiffieHellmanGroup, message.DH_4096_BIT_MODP, nil, nil, nil)
 		//proposal.DiffieHellmanGroup.BuildTransform(message.TypeDiffieHellmanGroup, message.DH_6144_BIT_MODP, nil, nil, nil)
-		//proposal.DiffieHellmanGroup.BuildTransform(message.TypeDiffieHellmanGroup, message.DH_8192_BIT_MODP, nil, nil, nil)
+		proposal.DiffieHellmanGroup.BuildTransform(message.TypeDiffieHellmanGroup, message.DH_8192_BIT_MODP, nil, nil, nil)
 
 		// Key exchange data
-		generator := new(big.Int).SetUint64(handler.Group14Generator)
-		factor, ok := new(big.Int).SetString(handler.Group14PrimeString, 16)
+		generator := new(big.Int).SetUint64(handler.Group18Generator)
+		factor, ok := new(big.Int).SetString(handler.Group18PrimeString, 16)
 		if !ok {
 			fmt.Errorf("Generate key exchange data failed")
 		}
@@ -125,7 +128,7 @@ func main() {
 		localPublicKeyExchangeValue := new(big.Int).Exp(generator, secret, factor).Bytes()
 		prependZero := make([]byte, len(factor.Bytes())-len(localPublicKeyExchangeValue))
 		localPublicKeyExchangeValue = append(prependZero, localPublicKeyExchangeValue...)
-		ikeMessage.Payloads.BUildKeyExchange(message.DH_2048_BIT_MODP, localPublicKeyExchangeValue)
+		ikeMessage.Payloads.BUildKeyExchange(message.DH_8192_BIT_MODP, localPublicKeyExchangeValue)
 
 		// Nonce
 		localNonce := handler.GenerateRandomNumber().Bytes()
@@ -181,7 +184,7 @@ func main() {
 		log.Println("IKE_SA_INIT sent to EPDG at", epdgUDPAddr)
 
 		// Receive IKE_SA_INIT reply from EPDG
-		err = udpConnection.SetReadDeadline(time.Now().Add(1 * time.Second))
+		err = udpConnection.SetReadDeadline(time.Now().Add(500 * time.Millisecond))
 		checkError(err)
 		buffer := make([]byte, 65535)
 		n, ikeSenderAddr, err := udpConnection.ReadFromUDP(buffer)
